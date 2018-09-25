@@ -7,3 +7,7 @@
 2. 控制组（control groups）
 3. 联合文件系统(union file systems)
 4. linux虚拟网络支持
+
+#### 基础架构
+1. docker采用了标准的C/S架构，包括客户端和服务端两大部分。
+2. 客户端和服务器端既可以运行在一个机器上，也可以通过socket或者restful API 来进行通信。

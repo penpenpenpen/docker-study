@@ -3,4 +3,6 @@
 
 docker底层依赖的核心技术：
 1. linux操作系统的命名空间（namespace）
-
+2. 控制组（control groups）
+3. 联合文件系统(union file systems)
+4. linux虚拟网络支持
